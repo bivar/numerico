@@ -11,6 +11,7 @@ Os códigos aqui disponíveis são auxiliares para o estudo da disciplina de Cá
 - Jacobi;
 - Gauss-Seidel;
 ### Módulo 3:
+> Observação: Temporariamente o arquivo tem o nome 'NUMERICO_INTEGRACAO', pois o enviei para avaliação na disciplina com este nome. Em breve, o ajustarei.
 - Simpson Composto (1/3 de Simpson);
 - Trapézio Simples;
 - Trapézio Composto;
